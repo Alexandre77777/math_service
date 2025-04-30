@@ -15,7 +15,7 @@ st.set_page_config(
 
 # URL бэкенда на render.com
 # Замените на свой URL после развертывания на render.com
-BACKEND_URL = "http://127.0.0.1:8000"
+BACKEND_URL = "https://math-service.onrender.com"
 
 # Функции для взаимодействия с бэкендом
 def check_api_status():
